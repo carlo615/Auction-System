@@ -152,6 +152,3 @@ All tests:
 $ mocha test/* --recursive
 ```
 
-
-## Example
-Latest build is deployed to AWS EC2 Container Service. You can try it by IP address: http://52.58.101.233/
